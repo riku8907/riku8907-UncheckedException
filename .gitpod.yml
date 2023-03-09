@@ -5,3 +5,5 @@ tasks:
 vscode:
  extensions:
   - revaturePro.revature-labs
+  - redhat.java
+  - vscjava.vscode-java-debug
